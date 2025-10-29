@@ -59,7 +59,7 @@ SQL-EDA-Project/
 │   ├── 03_measures_exploration.sql
 │   ├── 04_magnitude_analysis.sql
 │   ├── 05_ranking_analysis.sql
-│   └── full_eda_project.sql        # (the complete file you shared)
+│   └── full_eda_project.sql        
 │
 ├── visuals/
 │   ├── top_products_revenue.png
@@ -78,7 +78,7 @@ SQL-Advanced-Analytics/
 │
 ├── queries/
 │   ├── 01_EDA_Analysis.sql                  # Your exploratory queries
-│   └── 02_Advanced_Analytics.sql            # The full SQL code you shared above
+│   └── 02_Advanced_Analytics.sql            
 │
 ├── reports/
 │   ├── gold.report_customers_view.sql       # Separate views for readability
@@ -91,7 +91,7 @@ SQL-Advanced-Analytics/
 │   └── yearly_sales_trend.png
 │
 ├── docs/
-│   ├── ER_Diagram.png                       # Optional schema diagram
+│   ├── ER_Diagram.png                       
 │   ├── Data_Model_Overview.md
 │   └── Project_Workflow.png
 │
