@@ -49,7 +49,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Product Performance**
 - **Sales Trends**
 
-## 🚀 EDA Project Structure
+## 🚀 Exploratory-Data-Analysis Project Structure
 ```
 SQL-EDA-Project/
 │
