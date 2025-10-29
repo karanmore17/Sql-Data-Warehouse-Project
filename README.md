@@ -49,6 +49,56 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Product Performance**
 - **Sales Trends**
 
+## 🚀 EDA Project Structure
+```
+SQL-EDA-Project/
+│
+├── queries/
+│   ├── 01_data_exploration.sql
+│   ├── 02_date_exploration.sql
+│   ├── 03_measures_exploration.sql
+│   ├── 04_magnitude_analysis.sql
+│   ├── 05_ranking_analysis.sql
+│   └── full_eda_project.sql        # (the complete file you shared)
+│
+├── visuals/
+│   ├── top_products_revenue.png
+│   ├── country_sales_distribution.png
+│   ├── category_revenue_chart.png
+│   └── customer_revenue_top10.png
+│
+├── README.md
+│
+└── .gitignore
+
+```
+## 🚀 SQL-Advanced-Analytics Project Structure
+```
+SQL-Advanced-Analytics/
+│
+├── queries/
+│   ├── 01_EDA_Analysis.sql                  # Your exploratory queries
+│   └── 02_Advanced_Analytics.sql            # The full SQL code you shared above
+│
+├── reports/
+│   ├── gold.report_customers_view.sql       # Separate views for readability
+│   ├── gold.report_products_view.sql
+│
+├── visuals/
+│   ├── customer_segmentation_chart.png
+│   ├── category_contribution_chart.png
+│   ├── product_performance_chart.png
+│   └── yearly_sales_trend.png
+│
+├── docs/
+│   ├── ER_Diagram.png                       # Optional schema diagram
+│   ├── Data_Model_Overview.md
+│   └── Project_Workflow.png
+│
+├── README.md                                # Main project documentation
+└── .gitignore
+
+```
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 ---
 
